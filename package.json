@@ -20,5 +20,9 @@
     "nodemon": "^2.0.7"
   },
   "author": "Ishmam",
-  "license": "ISC"
+  "license": "ISC",
+  "engines": {
+    "node": ">= 12.18.3",
+    "npm": ">= 6.14.8"
+  }
 }
